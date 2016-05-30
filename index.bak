@@ -1,0 +1,137 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Majestic Awning of Santa Rosa CA, Family Owned Awnings and Shades</title>
+<link href="CSS/style.css" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Quicksand:300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200' rel='stylesheet' type='text/css'>
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-42889216-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<link rel="stylesheet" type="text/css" href="shadowbox-3.0.3/shadowbox.css">
+<script type="text/javascript" src="shadowbox-3.0.3/shadowbox.js"></script>
+<script type="text/javascript">
+Shadowbox.init();
+</script>
+</head>
+
+<body>
+
+<div class="mainwrap">
+	<div class="top">
+    	<div class="logo">
+        	<a href="index.html" style="width:100%;display:block;height:50px;text-decoration:none;color:black;"><img src="Images/logo.png" alt="Majestic Logo"></a>
+        </div>
+        <div class="primary">
+        	<ul id="topnav">
+            	<li class="topnavitem"><a href="about.html">about us</a></li>
+                <li class="topnavitem"><a href="portfolio.html">portfolio</a></li>
+                <li class="topnavitem"><a href="galleries.html">galleries</a></li>
+                <li class="topnavitem lastitem"><a href="contact.html">contact</a></li>
+            </ul>
+        </div>
+        <!-- end primary -->
+        <div class="callbox">
+        <img src="Images/phone_icon.png" id="phoneicon" alt="Phone Icon">
+        	<h4>(707) 528-3277</h4>
+        </div>
+	</div>
+    <!-- end top -->
+	<div class="middle">
+    	<div class="slidercontainer">
+        	<figure><img src="Images/hotel-la-rose.jpg" id="bannerimg" alt="Hotel La Rose, Santa Rosa, CA">
+            <figcaption>Hotel La Rose - <em><small>Santa Rosa, CA. Awnings by <strong>Majestic Awning & Canopy</strong></small></em></figcaption></figure>
+        </div>
+        <!-- end slidercontainer -->
+        <div class="sidecontent">
+        	<div data-role="content">
+        		<div class="ui-grid-a">
+            		<div class="ui-block-a griditem">
+                    	<a href="Images/santa-rosa01-small.jpg" rel="shadowbox" title="Commercial Awning - Santa Rosa, CA"><img src="Images/santa-rosa01-icon.jpg" alt="Santa Rosa"></a>
+            		</div>
+            		<div class="ui-block-b griditem">
+                    	<a href="Images/santa-rosa02-small.jpg" rel="shadowbox" title="Commercial Awning - Santa Rosa, CA"><img src="Images/santa-rosa02-icon.jpg" alt="Santa Rosa"></a>
+            		</div><br>
+            		<div class="ui-block-a griditem">
+                    	<a href="" rel="shadowbox"><img src="" alt=""></a>
+					</div>
+            		<div class="ui-block-b griditem">
+                    	<a href="" rel="shadowbox"><img src="" alt=""></a>
+            		</div><br>
+            		<div class="ui-block-a griditem">
+                    	<a href="" rel="shadowbox"><img src="" alt=""></a>
+            		</div>
+            		<div class="ui-block-b griditem">
+                    	<a href="" rel="shadowbox"><img src="" alt=""></a>
+            		</div><br>
+        		</div>
+    		</div>
+            <div class="viewmore">
+            <a href="galleries.html">View More <small>></small></a>
+            </div>
+        </div>
+        <!-- end sidecontent -->
+	</div>
+    <!-- end middle -->
+	<div class="bottom">
+    	<div class="bottomwrap">
+    		<div class="bottomthird">
+            	<div style="float:left;">
+                <h2>Welcome!</h2>
+                <p>Family-owned high quality custom work since 2000.</p> 
+                <p>We offer a wide range of awnings, covers, shades, and more!</p>
+                </div>
+        	</div>
+        	<div class="bottomthird">
+            	<div class="thirdcontainer">
+                	<h2>Contact Us</h2>
+                    <a href="contact.html">
+                		<img src="Images/map.png" id="mappic">
+                    </a>
+                </div>
+        	</div>
+        	<div class="bottomthird bottomlast">
+            	<div class="thirdcontainer">
+                	<h2>Reviews</h2>
+                    <h3>See what happy clients say about us.</h3>
+                    <div class="reviewsbutton"><a href="https://plus.google.com/115456813053821480429" target="_blank">Reviews</a></div>
+                </div>
+        	</div>
+        </div>
+	</div>
+	<div class="footer">
+    	<div class="footerthird firstthird">
+        	<h3>Categories</h3>
+            <ul style="margin-left:-32px;">
+            <li><a href="comprojects.html">Commercial Projects</a></li>
+            <li><a href="resprojects.html">Residential Projects</a></li>
+			<li><a href="materials.html">Materials</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+            <li class="lastlicat"><a href="https://plus.google.com/115456813053821480429" target="_blank">Reviews</a></li>
+            </ul>
+    	</div>
+		<div class="footerthird">
+        	<h3>About Us</h3>
+        	<p><a href="index.html">Majestic Awning & Canopy of Santa Rosa</a>, CA offers quality awnings, shades, covers, and more for low prices. Family owned and operated since 2000.</p>
+        </div>
+        <div class="footerthird lastthird">
+        	<h3>Message Form</h3>
+            <script type="text/javascript" src="http://form.jotform.co/jsform/32225794880865"></script>
+        </div>
+		<p class="copywrite"><a href="http://www.rooneydev.com" target="_blank">Local Business Website Design</a> by RooneyDev &copy;2013</p>
+	</div>
+</div>
+</body>
+</html>
