@@ -366,18 +366,22 @@ li.lastlicat {
 	margin-left:-22px;
 }
 
-.contactformbox {
+.jotform-form {
 	display:inline-block;
 	width:67px;
 	margin-top:5px;
 }
 
-.contactformbox input{
-	background: url(Images/bg.gif);
-	border:1px solid #FFF;
-	color:#FFF;
-	padding:7px;
-	width:200px;
+.jotform-form input{
+	background: url(images/bg.gif);
+	border: 1px solid #fff;
+	color: #fff;
+	padding: 7px;
+	width: 200px;
+}
+
+.form-textbox {
+  color: white !important;
 }
 
 .footerthird h3 {
