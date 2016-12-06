@@ -394,3 +394,8 @@ li.lastlicat {
 	clear: both;
 	margin: 123px 0 90px;
 }
+
+#image img {
+	width: 100%;
+	height: auto;
+}
