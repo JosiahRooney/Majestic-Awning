@@ -35,9 +35,10 @@
         $(function() {
             $(".image").click(function() {
                 var image = $(this).attr("rel");
-                $(this).hide();
-                $(this).fadeIn('fast');
-                $(this).html('<img src="' + image + '"/>');
+                var $image = $('#image');
+                $image.hide();
+                $image.fadeIn('fast');
+                $image.html('<img src="' + image + '"/>');
                 return false;
             });
         });
