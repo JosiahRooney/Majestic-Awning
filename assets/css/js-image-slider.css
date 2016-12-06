@@ -8,7 +8,7 @@
 
 #slider {
     width:700px;height:396px;/* Make it the same size as your images */
-	background:#fff url("/assets/images/jsImgSlider/images/loading.gif") no-repeat 50% 50%;
+	background:#fff url("../images/jsImgSlider/images/loading.gif") no-repeat 50% 50%;
 	position:relative;
 	margin:0 auto;/*make the image slider center-aligned */
     box-shadow: 0 1px 5px #999;
@@ -82,7 +82,7 @@ div.navBulletsWrapper {
 /* each bullet */
 div.navBulletsWrapper div {
     width:11px; height:11px;
-    background:transparent url("/assets/images/jsImgSlider/images/bullet.png") no-repeat 0 0;
+    background:transparent url("../images/jsImgSlider/images/bullet.png") no-repeat 0 0;
     float:left;overflow:hidden;vertical-align:middle;cursor:pointer;
     margin-right:11px; /* distance between each bullet*/
     _position:relative; /*IE6 hack*/

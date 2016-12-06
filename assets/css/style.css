@@ -6,7 +6,7 @@ img {
 }
 
 body {
-	background: url("/assets/images/bg.gif") #5e524f;
+	background: url("../images/bg.gif") #5e524f;
 	font-family: "Verdana", "Geneva", sans-serif;
 }
 
@@ -373,7 +373,7 @@ li.lastlicat {
 }
 
 .jotform-form input{
-	background: url("/assets/images/bg.gif");
+	background: url("../images/bg.gif");
 	border: 1px solid #fff;
 	color: #fff;
 	padding: 7px;
