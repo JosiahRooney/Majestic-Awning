@@ -35,10 +35,7 @@
         $(function() {
             $(".image").click(function() {
                 var image = $(this).attr("rel");
-                var $image = $('#image');
-                $image.hide();
-                $image.fadeIn('fast');
-                $image.html('<img src="' + image + '"/>');
+                $('#image').hide().fadeIn('fast').html('<img src="' + image + '"/>');
                 return false;
             });
         });
