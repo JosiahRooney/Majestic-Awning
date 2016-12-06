@@ -398,7 +398,7 @@ li.lastlicat {
 #image img {
 	max-width: 100%;
 	width: auto;
-	margin: auto;
+	margin: 0 auto 50px;
 	height: auto;
 	display: block;
 }
