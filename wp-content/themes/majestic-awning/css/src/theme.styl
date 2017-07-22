@@ -1,0 +1,155 @@
+*
+  box-sizing border-box
+
+body
+  font-size 18px
+
+// Overwrite Bootstrap
+.nav>li>a:focus, .nav>li>a:hover
+  background-color rgba(255,255,255,0.5)
+a
+  color inherit
+
+img
+  max-width 100%
+
+.navigation
+  padding 23px 0 0
+
+a
+a:hover
+a:active
+  text-decoration none
+
+.btn-success
+  background-color #345f84
+  border 1px solid darken(#345f84, 20%)
+
+.dash:before
+  content '\2014 \00A0'
+
+.logged-in #responsive-menu-button
+.logged-in #responsive-menu-container
+  margin-top 32px
+
+.primary-header
+  background-color #345f84
+  color white
+  border-bottom 5px solid darken(#345f84, 20%)
+  position relative
+  a
+    color white
+    transition 0.3s all
+    &:hover
+      color #ddd
+      transition 0.3s all
+  .license
+    padding 15px 20px 10px
+
+.home .primary-header
+  box-shadow 0 0 340px 42px rgba(0,0,0,0.65)
+
+.menu
+  padding 0
+  margin 0
+  li
+    list-style none
+    display inline-block
+
+.menu-main-menu-container .menu
+  text-align right
+  @media(max-width 992px)
+    display none
+  li
+    a
+      display block
+      padding 10px 20px
+      font-size 2.6rem
+      text-transform uppercase
+      font-family 'Oswald', sans-serif
+      &:hover
+        text-decoration underline
+
+.title
+  position relative
+  h1
+    padding-left 85px
+    width 380px
+    margin-top 18px
+    font-family 'Quicksand', sans-serif
+    font-weight bold
+
+.logo
+  position absolute
+  width 90px
+  height auto
+  top 18px
+  left 0
+
+.hero
+  position relative
+  .nivo-caption
+    font-size 30px
+    padding 8px 0
+    padding-left 7%
+    font-family 'Quicksand' !important
+    font-style italic
+
+#content
+  padding-top 20px
+  min-height 42vh
+  padding-bottom 30px
+  a
+    font-weight bold
+
+.contact-bar
+  padding 8px 0 14px
+  background-color #ddd
+  color #444
+  text-align center
+  border-bottom 5px solid #d4d4d4
+  a
+    color #337ab7
+
+.welcome
+  padding-top 50px
+  .col-md-4
+    @media(max-width 1000px)
+      text-align center
+
+.reviews
+  margin-top 50px
+  padding-top 50px
+  background-color lighten(#345f84, 80%)
+  padding-bottom 50px
+  blockquote
+    border-left none !important
+    text-align center
+    margin auto
+    max-width 66%
+    .stars
+      color gold
+      text-shadow 0 1px 4px rgba(0,0,0,0.9)
+    @media(max-width 800px)
+      max-width 100%
+
+.footer
+  border-top 5px solid lighten(#333, 40%)
+  color white
+  background-color #333
+  .footer-inner
+    padding-top 50px
+    padding-bottom 50px
+    background -moz-linear-gradient(top, rgba(255,255,255,0.2) 0%, rgba(0,0,0,0.2) 100%)
+    background -webkit-linear-gradient(top, rgba(255,255,255,0.2) 0%,rgba(0,0,0,0.2) 100%)
+    background linear-gradient(to bottom, rgba(255,255,255,0.2) 0%,rgba(0,0,0,0.2) 100%)
+  a
+    color lighten(#23527c, 50%)
+    &:hover
+      color #23527c
+
+  .copyright
+    color #888
+    padding-top 70px
+    font-size 15px
+    text-align center
