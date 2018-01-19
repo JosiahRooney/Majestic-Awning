@@ -26,7 +26,7 @@ define('DB_NAME', 'majesticawning');
 define('DB_USER', 'majesticawning');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'FZCBHmqB2u8bt!');
+define('DB_PASSWORD', 'B2uFZCBHmq8bt!');
 
 /** MySQL hostname */
 define('DB_HOST', 'majesticawning.db.11896704.hostedresource.com');
